@@ -1,1 +1,1 @@
-# Repository for the future assignments in data sceince education
+# Repository for the future assignments in data science education
